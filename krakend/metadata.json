@@ -1,0 +1,9 @@
+{
+  "workspace": {
+    "name": "teste5002"
+  },
+  "environment": {
+    "repository": "https://github.com/FranMTrindade/teste.git",
+    "gitUsername": "FranMTrindade"
+  }
+}
